@@ -15,13 +15,6 @@ function ensureQuestion(s) {
 ### tuesday - challenge 2
 ```
 function reverseWords(str){
-  const aux = str.split(' ');
-  let position = aux.length - 1;
-  let response = "";
-  aux.forEach(word => {
-    response = response + aux[position] + " ";
-    position --;
-  })
-  return response.trim(); // reverse those words
+  return str.split(' ').reverse().join(' ');
 }
 ```
