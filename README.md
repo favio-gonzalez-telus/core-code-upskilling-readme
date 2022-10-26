@@ -13,8 +13,6 @@ function ensureQuestion(s) {
 }
 ```
 ### tuesday - challenge 2
-```
-function reverseWords(str){
-  return str.split(' ').reverse().join(' ');
-}
-```
+
+![image](https://user-images.githubusercontent.com/89661214/197918300-115c74fb-1f71-43f6-a48f-0faef1643d23.png)
+
