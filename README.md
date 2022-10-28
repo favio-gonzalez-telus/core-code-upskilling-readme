@@ -11,3 +11,6 @@
 
 ### wednesday
 ![image](https://user-images.githubusercontent.com/89661214/198167063-b47c0e02-7980-4c1a-8558-1bdcd5c33056.png)
+
+### thursday
+![image](https://user-images.githubusercontent.com/89661214/198425105-4664cc80-98c9-4e42-985a-2c743228c851.png)
