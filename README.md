@@ -14,3 +14,7 @@
 
 ### thursday
 ![image](https://user-images.githubusercontent.com/89661214/198425105-4664cc80-98c9-4e42-985a-2c743228c851.png)
+
+## week 2
+### monday
+![image](https://user-images.githubusercontent.com/89661214/199131524-d54da815-7c9d-4c81-b857-9df6cc0011b0.png)
