@@ -18,3 +18,6 @@
 ## week 2
 ### monday
 ![image](https://user-images.githubusercontent.com/89661214/199131524-d54da815-7c9d-4c81-b857-9df6cc0011b0.png)
+
+### tuesday
+![image](https://user-images.githubusercontent.com/89661214/199864676-58477a3a-cedf-4f14-9a12-37b00c537a6b.png)
