@@ -21,3 +21,48 @@
 
 ### tuesday
 ![image](https://user-images.githubusercontent.com/89661214/199864676-58477a3a-cedf-4f14-9a12-37b00c537a6b.png)
+
+### wednesday
+'''
+import React from 'react';
+
+export class Counter extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+        counter: 0
+    };
+
+    this.increment = this.increment.bind(this);
+    this.decrement = this.decrement.bind(this);
+    // Your state
+  }
+  
+    increment() {
+        this.setState({
+          counter: this.state.counter + 1
+        });
+      };
+      
+    decrement() {
+      this.setState({
+        counter: this.state.counter - 1
+      });
+    };
+  
+  // Your event handlers 
+  render() {
+    return (
+      <div>
+        <h1 id = "counter">{this.state.counter}</h1>
+          <button id="decrement" onClick={this.decrement}>
+            Decrement
+          </button>
+          <button id="increment" onClick={this.increment}>
+            Increment
+          </button>
+      </div>
+    )
+  }
+}
+'''
