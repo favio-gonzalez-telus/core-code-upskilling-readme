@@ -94,17 +94,18 @@ class WishlistForm extends React.Component {
 
   handleChange (change) {
     this.setState({...this.state, [change.target.id]: change.target.value})
+    console.log(change);
   }
   
   render() {
     return (
       <form onSubmit={this.handleSubmit}>
 
-        <input id = 'name' onChange={(e) => this.handleChange({...e, id : 'name'})}></input>
+        <input id = 'name' onChange={this.handleChange}></input>
         <br></br>
-        <textarea id = 'wish' onChange={(e) => this.handleChange({...e, id : 'wish'})}></textarea>
+        <textarea id = 'wish' onChange={this.handleChange}></textarea>
         <br></br>
-        <select id = 'priority' onChange={(e) => this.handleChange({...e, id : 'priority'})}>  
+        <select id = 'priority' onChange={this.handleChange}>  
           <option>1</option>  
           <option>2</option>  
           <option>3</option>  
@@ -119,5 +120,6 @@ class WishlistForm extends React.Component {
 };
 
 export default WishlistForm;
+
 
 ```
