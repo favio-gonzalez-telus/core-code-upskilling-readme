@@ -23,7 +23,7 @@
 ![image](https://user-images.githubusercontent.com/89661214/199864676-58477a3a-cedf-4f14-9a12-37b00c537a6b.png)
 
 ### wednesday
-'''
+```
 import React from 'react';
 
 export class Counter extends React.Component {
@@ -65,4 +65,5 @@ export class Counter extends React.Component {
     )
   }
 }
-'''
+```
+![image](https://user-images.githubusercontent.com/89661214/200453746-34334df1-1aff-4f77-923c-2923a8bfeb38.png)
