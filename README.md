@@ -125,3 +125,4 @@ export default WishlistForm;
 ```
 ## week 3
 ### Monday
+[a relative link](exercises/w3_monday.js)
