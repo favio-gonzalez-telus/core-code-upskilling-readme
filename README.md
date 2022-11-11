@@ -126,3 +126,6 @@ export default WishlistForm;
 ## week 3
 ### Monday
 [Build Search Filter In React](exercises/w3_monday.js)
+
+### Tuesday
+[Fetch Random User Data](exercises/w3_tuesday.js)
