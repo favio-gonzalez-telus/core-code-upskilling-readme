@@ -129,3 +129,8 @@ export default WishlistForm;
 
 ### Tuesday
 [Fetch Random User Data](exercises/w3_tuesday.js)
+
+## week 4
+### Monday
+![image](https://user-images.githubusercontent.com/89661214/201812884-e8561f9d-b909-4419-a722-6b5ee0618f3f.png)
+
