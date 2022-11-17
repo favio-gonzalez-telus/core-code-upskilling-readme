@@ -134,3 +134,10 @@ export default WishlistForm;
 ### Monday
 ![image](https://user-images.githubusercontent.com/89661214/201812884-e8561f9d-b909-4419-a722-6b5ee0618f3f.png)
 
+### Tuesday
+![image](https://user-images.githubusercontent.com/89661214/202327863-ff0d9c11-0467-4c3c-9a25-cd69cfeb455a.png)
+
+### Wednesday
+![image](https://user-images.githubusercontent.com/89661214/202329766-c41b82c3-366b-4784-8665-e766cc34b6e4.png)
+
+
